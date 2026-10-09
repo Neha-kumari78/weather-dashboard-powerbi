@@ -22,8 +22,5 @@ A weather and air quality dashboard built in Power BI using data from WeatherAPI
 - Created DAX measures for humidity, wind speed, visibility, pressure and more
 - Added units and formatting, and designed a dark-themed dashboard
 
-## Screenshots
-![Dashboard 1](dashboard-1.png)
 
-## Demo
-Demo video: see demo.mp4 in this repo.
+
